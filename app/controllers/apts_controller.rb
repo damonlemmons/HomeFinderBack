@@ -1,0 +1,2 @@
+class AptsController < ApplicationController
+end
