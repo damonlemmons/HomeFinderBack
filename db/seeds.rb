@@ -29,7 +29,8 @@ apts_attributes = [
     manager: 'Lemmons',
     phone:123-444-7878,
     contacthours:'1-7pm'
-  }
+    },
+
 ]
 
 apts_attributes.each do |attributes|
